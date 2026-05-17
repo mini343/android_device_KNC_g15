@@ -5,8 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/alps/tb8768tp1_64_bsp
-
+DEVICE_PATH := device/KNC/g15/tb8768tp1_64_bsp
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
 

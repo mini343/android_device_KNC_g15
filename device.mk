@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/alps/tb8768tp1_64_bsp
+LOCAL_PATH := device/KNC/g15/tb8768tp1_64_bsp
